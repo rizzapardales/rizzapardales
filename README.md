@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rizza Mae</h1>
-<h3 align="center">Web development explorer with a passion for redesigning websites.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
